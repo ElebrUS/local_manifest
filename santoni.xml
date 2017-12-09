@@ -3,9 +3,9 @@
 
     <remove-project name="LineageOS/android_hardware_qcom_audio"/>
     <remove-project name="LineageOS/android_hardware_qcom_display"/>
-    <project path="hardware/qcom/audio/default" name="ElebrUS/hardware_qcom_audio" groups="qcom,qcom_audio" remote="github" revision="8.0-caf-8937" />
-    <project path="hardware/qcom/display/msm8937" name="ElebrUS/hardware_qcom_display" groups="pdk,qcom,qcom_display" remote="github" revision="8.0-caf-8937"/>
-    <project path="hardware/qcom/media/msm8937" name="ElebrUS/hardware_qcom_media" groups="pdk,qcom,qcom_display" remote="github" revision="8.0-caf-8937"/>
+    <project path="hardware/qcom/audio-caf/msm8937" name="ElebrUS/hardware_qcom_audio" groups="qcom,qcom_audio" remote="github" revision="8.0-caf-8937" />
+    <project path="hardware/qcom/display-caf/msm8937" name="ElebrUS/hardware_qcom_display" groups="pdk,qcom,qcom_display" remote="github" revision="8.0-caf-8937"/>
+    <project path="hardware/qcom/media-caf/msm8937" name="ElebrUS/hardware_qcom_media" groups="pdk,qcom,qcom_display" remote="github" revision="8.0-caf-8937"/>
 
     <!-- device tree -->
     <project path="device/xiaomi" name="ElebrUS/lineage_device-xiaomi_santoni" remote="github" revision="lineage-15.0" />
