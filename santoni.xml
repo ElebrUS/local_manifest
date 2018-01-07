@@ -8,8 +8,6 @@
     <!-- device tree -->
     <project path="device/xiaomi" name="ElebrUS/lineage_device-xiaomi_santoni" remote="github" revision="lineage-15.0" />
     <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" remote="github" revision="lineage-15.0" />
-    <!-- kernel -->
-    <project path="kernel/xiaomi/santoni" name="ElebrUS/msm-3.18" remote="github" revision="rel/msm-3.18.r5-oreo" />
     <!-- vendor -->
     <project path="vendor/xiaomi" name="ElebrUS/proprietary_vendor_xiaomi" remote="github" revision="lineage-15.0" />
 
