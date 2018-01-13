@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-    <project path="hardware/qcom/audio-caf/msm8937" name="HridayHS/android_hardware_qcom_audio" groups="qcom,qcom_audio" remote="github" revision="lineage-15.1-caf-8996" />
-    <project path="hardware/qcom/display-caf/msm8937" name="HridayHS/android_hardware_qcom_display" groups="pdk,qcom,qcom_display" remote="github" revision="lineage-15.1-caf-8996"/>
-    <project path="hardware/qcom/media-caf/msm8937" name="HridayHS/android_hardware_qcom_media" groups="pdk,qcom,qcom_display" remote="github" revision="lineage-15.1-caf-8996"/>
+    <project path="hardware/qcom/audio-caf/msm8996" name="HridayHS/android_hardware_qcom_audio" groups="qcom,qcom_audio" remote="github" revision="lineage-15.1-caf-8996" />
+    <project path="hardware/qcom/display-caf/msm8996" name="HridayHS/android_hardware_qcom_display" groups="pdk,qcom,qcom_display" remote="github" revision="lineage-15.1-caf-8996"/>
+    <project path="hardware/qcom/media-caf/msm8996" name="HridayHS/android_hardware_qcom_media" groups="pdk,qcom,qcom_display" remote="github" revision="lineage-15.1-caf-8996"/>
     <!-- device tree -->
     <project path="device/xiaomi/santoni" name="nichcream/android_device_xiaomi_santoni-2" remote="github" revision="lineage-15.0" />
     <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" remote="github" revision="lineage-15.0" />
