@@ -4,8 +4,6 @@
     <project path="hardware/qcom/audio-caf/msm8937" name="HridayHS/android_hardware_qcom_audio" groups="qcom,qcom_audio" remote="github" revision="lineage-15.0-caf-8996" />
     <project path="hardware/qcom/display-caf/msm8937" name="HridayHS/android_hardware_qcom_display" groups="pdk,qcom,qcom_display" remote="github" revision="lineage-15.0-caf-8996"/>
     <project path="hardware/qcom/media-caf/msm8937" name="HridayHS/android_hardware_qcom_media" groups="pdk,qcom,qcom_display" remote="github" revision="lineage-15.0-caf-8996"/>
-    <project path="hardware/qcom/bt-caf" name="ElebrUS/platform_hardware_qcom_bt-caf" groups="pdk,qcom,qcom_display" remote="github" revision="o8.0"/>
-
     <!-- device tree -->
     <project path="device/xiaomi/santoni" name="nichcream/android_device_xiaomi_santoni-2" remote="github" revision="lineage-15.0" />
     <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" remote="github" revision="lineage-15.0" />
