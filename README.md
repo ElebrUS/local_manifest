@@ -1,6 +1,6 @@
 the local manifests:
 
-	git clone https://github.com/ElebrUS/local_manifest -b master .repo/local_manifests
+	git clone https://github.com/ElebrUS/local_manifest .repo
 
 Then sync up with this command:
 
