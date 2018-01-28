@@ -8,6 +8,6 @@
     <project path="device/xiaomi/santoni" name="ElebrUS/android_device_xiaomi_santoni" remote="github" revision="lineage-15.1" />
     <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" remote="github" revision="staging/lineage-15.1" />
     <!-- vendor -->
-    <project path="vendor/xiaomi" name="ElebrUS/android_vendor_xiaomi_santoni" remote="github" revision="lineage-15.1" />
+    <project path="vendor/xiaomi" name="ElebrUS/android_vendor_xiaomi_santoni" remote="github" revision="lineage-15.0_rebase" />
 
 </manifest>
