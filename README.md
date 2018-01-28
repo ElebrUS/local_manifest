@@ -1,6 +1,6 @@
 the local manifests:
 
-	git clone https://github.com/ElebrUS/local_manifest .repo
+	wget https://raw.githubusercontent.com/ElebrUS/local_manifest/master/santoni.xml -P .repo
 
 Then sync up with this command:
 
